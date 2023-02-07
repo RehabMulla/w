@@ -1,5 +1,5 @@
-var casheName = 'petstore-v1';
-var casheFiles = [
+var cacheName = 'petstore-v1';
+var cacheFiles = [
     'petdepot.html',
     'product.js',
     'petstore.webmanifest',
